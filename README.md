@@ -1,6 +1,6 @@
 # StorageSettingDemoRep
 This is a Document that contains:
-Various approaches to storage management on your platform of choice
+Various approaches to storage management on your platform of choice:
 The choice of storage management depends on the type of data (e.g., media, user settings, files), data size, and how long you want to persist it. Here are some common approaches:
  1. Shared Preferences
     Use Case: Storing simple key value pairs like user settings, preferences, or small amounts of data.    
